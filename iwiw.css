@@ -1724,7 +1724,8 @@ img.boxSize,img.defaultSize,.bodyText img{max-width:100%;height:auto}
 .headInfo{padding-top:16px}
 .headInfo h1{margin-bottom:10px;word-wrap:break-word}
 .headInfo .details p,.headInfo .description p{margin:6px 0;font-size:14px;line-height:1.55}
-.feed .item,.reshare.feed .item{width:auto;padding:14px 0}
+.feed .item,.reshare.feed .item{width:auto;padding:14px 0;border-bottom:1px solid #d9e1ea}
+.feed .item:last-child,.reshare.feed .item:last-child{border-bottom:0}
 .feed .wrap,.feed .inner{width:auto;max-width:100%}
 .feed h5{margin:0 0 10px;font-size:16px;line-height:1.4}
 .feed h5 .owner{color:#15304f}
