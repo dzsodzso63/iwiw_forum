@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dzsodzso63.github.io/iwiw_forum/sitemap.xml

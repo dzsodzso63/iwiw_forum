@@ -1,13 +1,8 @@
 
-
-
-
-
 /*
      FILE ARCHIVED ON 21:08:04 Apr 18, 2014 AND RETRIEVED FROM THE
      INTERNET ARCHIVE ON 23:00:48 Sep 22, 2014.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
      SECTION 108(a)(3)).
 */
@@ -17,17 +12,11 @@
 .windowInfoBar .infoBarSuccess{color:#2f9b36}
 .windowInfoBar .infoBarError{background-color:#f00}
 .infoBarInner,.emptylist{color:#000;background-color:#fffacf;font-size:12px;font-weight:bold;padding:7px 7px 7px 28px;margin:10px 0;background-repeat:no-repeat;background-position:7px 7px}
-
-
-
 .infoBarInner span.details{display:block;margin-top:5px;font-weight:normal;color:#000}
-
 .defaultText.defaultTextContent{color:#999!important}
 .tooltip.tip{float:left}
 .tooltip.tip .content{background-color:#ffc;border:1px solid #cc9;padding:2px;color:#000;font-size:12px;font-family:sans-serif}
 .tooltip.bubble{padding-top:12px;width:230px}
-
-
 .tooltip.bubble .content{padding:5px;background-color:#fff;border:6px solid #c7c7c7;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px}
 .locationsMap{font-size:12px;padding:20px}
 .locationsMap h3{margin:0}
@@ -92,33 +81,18 @@ form.busy{cursor:pointer;cursor:hand}
 .ui-widget{font-family:Arial,Tahoma,sans-serif;font-size:12px}
 .ui-widget .ui-widget{font-size:1em}
 .ui-widget input,.ui-widget select,.ui-widget textarea,.ui-widget button{font-family:Arial,Tahoma,sans-serif;font-size:1em}
-
 .ui-widget-content a{color:#191e25}
-
 .ui-widget-header a{color:#f2f5f8}
-
 .ui-state-default a,.ui-state-default a:link,.ui-state-default a:visited{color:#002a61;text-decoration:none}
-
 .ui-state-hover a,.ui-state-hover a:hover{color:#002a61;text-decoration:none}
-
 .ui-state-active a,.ui-state-active a:link,.ui-state-active a:visited{color:#000;text-decoration:none}
 .ui-widget :active{outline:0}
-
 .ui-state-highlight a,.ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a{color:#363636}
-
 .ui-state-error a,.ui-widget-content .ui-state-error a,.ui-widget-header .ui-state-error a{color:#cd0a0a}
 .ui-state-error-text,.ui-widget-content .ui-state-error-text,.ui-widget-header .ui-state-error-text{color:#cd0a0a}
 .ui-priority-primary,.ui-widget-content .ui-priority-primary,.ui-widget-header .ui-priority-primary{font-weight:bold}
 .ui-priority-secondary,.ui-widget-content .ui-priority-secondary,.ui-widget-header .ui-priority-secondary{opacity:.7;filter:Alpha(Opacity=70);font-weight:normal}
 .ui-state-disabled,.ui-widget-content .ui-state-disabled,.ui-widget-header .ui-state-disabled{opacity:.35;filter:Alpha(Opacity=35);background-image:none}
-
-
-
-
-
-
-
-
 .ui-icon-carat-1-n{background-position:0 0}
 .ui-icon-carat-1-ne{background-position:-16px 0}
 .ui-icon-carat-1-e{background-position:-32px 0}
@@ -302,8 +276,6 @@ form.busy{cursor:pointer;cursor:hand}
 .ui-corner-right{-moz-border-radius-topright:5px;-webkit-border-top-right-radius:5px;border-top-right-radius:5px;-moz-border-radius-bottomright:5px;-webkit-border-bottom-right-radius:5px;border-bottom-right-radius:5px}
 .ui-corner-left{-moz-border-radius-topleft:5px;-webkit-border-top-left-radius:5px;border-top-left-radius:5px;-moz-border-radius-bottomleft:5px;-webkit-border-bottom-left-radius:5px;border-bottom-left-radius:5px}
 .ui-corner-all{-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px}
-
-
 .ui-resizable{position:relative}
 .ui-resizable-handle{position:absolute;font-size:.1px;z-index:99999;display:block}
 .ui-resizable-disabled .ui-resizable-handle,.ui-resizable-autohide .ui-resizable-handle{display:none}
@@ -364,8 +336,6 @@ button.ui-button::-moz-focus-inner{border:0;padding:0}
 .ui-dialog .ui-dialog-buttonpane button{margin:.5em .4em .5em 0;cursor:pointer}
 .ui-dialog .ui-resizable-se{width:14px;height:14px;right:3px;bottom:3px}
 .ui-draggable .ui-dialog-titlebar{cursor:move}
-
-
 .ui-state-hover .ui-icon,.ui-state-focus .ui-icon{background:0}
 .ui-slider{position:relative;text-align:left}
 .ui-slider .ui-slider-handle{position:absolute;z-index:2;width:1.2em;height:1.2em;cursor:default}
@@ -435,7 +405,6 @@ button.ui-button::-moz-focus-inner{border:0;padding:0}
 .ui-datepicker-cover{display:none;display:block;position:absolute;z-index:-1;filter:mask();top:-4px;left:-4px;width:200px;height:200px}
 .ui-progressbar{height:2em;text-align:left}
 .ui-progressbar .ui-progressbar-value{margin:-1px;height:100%}
-
 .selector,.radio,.checker,.uploader,.button,.selector *,.radio *,.checker *,.uploader *,.button *{margin:0;padding:0}
 .uniform input.text,.uniform input.email,.uniform input.password,textarea.uniform{font-size:12px;outline:0}
 div.selector{background-position:-483px -130px;line-height:26px;height:26px}
@@ -672,7 +641,6 @@ html[xmlns] .clearfix{display:block}
 .adDbg.audit{margin:10px;color:#fff;background:#000;border-color:#ffe500}
 .adDbg.audit em{color:#ffe500}
 body{min-width:980px;background:#e1e5eb;margin:0}
-
 #page{width:980px;margin:0 auto 60px auto;position:relative}
 body.isSandbox #page{*margin-top:6px!important}
 #page .main{min-height:730px}
@@ -691,14 +659,12 @@ body.isSandbox #page{*margin-top:6px!important}
 .double .main{margin-left:-9px;padding-left:19px;padding-right:20px}
 .double.double_10 .main{width:760px}
 .double.double_9 .main{width:680px}
-
 .double.double_4 .main{border-left-style:solid;margin-left:-11px;margin-right:-10px;padding:20px 20px 0 20px;width:619px}
 .double.double_4 .main.break_grid{padding-left:0;padding-right:0;width:660px}
 .double .main .content{margin-left:20px;margin-right:20px}
 .double.double_10 .main.break_grid{width:799px}
 .double.double_9 .main.break_grid{width:719px}
 .double.double_4 .main.break_grid{width:660px}
-
 .triple .sidebar.secondary .sidebar{padding-right:15px}
 .triple .main{border-left-style:solid;margin-left:9px;padding:0 20px 0 20px;width:440px}
 .pageTitle{background:#fff;padding:20px 19px;margin:0 -9px}
@@ -779,15 +745,11 @@ body.isSandbox #page{*margin-top:6px!important}
 #popupPage.faqtext #alteremail{width:625px}
 #popupPage.faqtext #question{width:625px;height:100px}
 .forgottenpass .field{padding-bottom:1em}
-
 #topAdvWrapper .goAdverticum-delayedLoad,#topAdvWrapper .goAdverticum{margin-bottom:-14px}
-
 .isAdmin .withTopAdverticum #profilePanel{margin-top:53px}
 .isAdmin .withTopAdverticum #profileOptions{top:59px}
 #header a{outline:0}
-
 #toplogo:hover{background-position:0 -47px}
-
 #mainMenu,#mainMenuPublic{display:block;float:left;width:627px;height:47px;margin:0;padding:0}
 #mainMenuPublic{width:627px}
 .isSandbox #mainMenu{width:517px}
@@ -798,18 +760,14 @@ body.isSandbox #page{*margin-top:6px!important}
 #mainMenu li:last-child a,#mainMenuPublic li:last-child a{border-right:0}
 #mainMenu li:first-child a{border-left:1px solid #123a60}
 #mainMenuPublic li:first-child a{border-left:1px solid #545454}
-
 #mainMenu li a span,#mainMenuPublic li a span{display:inline-block;text-shadow:#070e18 1px 1px;cursor:pointer;line-height:29px;float:left;margin:0;padding:0 5px}
 #mainMenu li .option span{width:3px;color:#8aa8d2;font-size:9px;text-indent:-3px;text-shadow:0}
 #mainMenu li .option:hover span{color:#fff}
-
 #mainMenu #layered .outer{border:0;background:transparent;margin:5px 0 13px;color:#fff}
 #mainMenu #layered a span{border:0;text-shadow:#3c7517 1px 1px}
-
 #mainMenu #layered .option span{background:transparent none;border:0 none;padding:0 6px;text-indent:-9999em}
 .menuLayer{display:none;left:50%;margin-left:-484px;position:absolute;top:52px;*top:66px;z-index:1000}
 .menuLayer.visible{display:block}
-
 #imagesLayer.loading,#listingsLayer.loading,#forumLayer.loading,#pollLayer.loading{height:185px}
 #eventsLayer.loading{height:187px}
 #clubsLayer.loading{height:180px}
@@ -824,12 +782,10 @@ body.isSandbox #page{*margin-top:6px!important}
 .layerContent .layerMicroColumn{width:219px}
 .layerContent .micro{margin:0 0 10px 0}
 .layerContent .details .title{max-width:155px;overflow:hidden}
-
 #listingsLayer h3{margin-top:0}
 .listingsLayerLeft,.listingsLayerRight{position:relative;height:185px}
 .listingsLayerLeft{width:220px;padding-right:10px;float:left}
 .listingsLayerLeft p{margin-bottom:5px}
-
 .listingsLayerLeft .button{margin-bottom:5px!important}
 .listingsLayerRight{width:625px;margin-left:10px;display:inline;float:left;overflow:hidden}
 #listingsLayer .layerMicroColumn{width:143px}
@@ -838,25 +794,21 @@ body.isSandbox #page{*margin-top:6px!important}
 .layerMicroColumn{width:142px;float:left;border-left:1px solid #e1e7ed;padding:0 7px;height:125px;overflow:hidden;margin-bottom:5px}
 .layerMicroColumn.column1{padding-left:0;border-left:0}
 .listingsLayerLeft.inverted .moreStuff a{background-color:#e5e9ef}
-
 #eventsLayer h3{margin-top:0}
 #eventsLayer .eventmicro .details{width:175px}
 #eventsLayer .eventmicro .title{max-width:175px}
 .eventsLayerLeft,.eventsLayerCenter{position:relative;height:185px}
 .eventsLayerLeft{width:220px;padding-right:10px;float:left}
 .eventsLayerLeft p{margin-bottom:5px}
-
 .eventsLayerLeft .button{margin-bottom:0!important}
 .eventsLayerCenter{width:460px;margin-left:10px;display:inline;float:left;overflow:hidden}
 .eventsLayerRight{width:144px;padding-left:10px;display:inline;float:right;overflow:hidden;border-left:1px solid #e1e7ed}
 .eventsLayerRight .big .when{font-size:11px;padding-top:3px;margin-bottom:-1px}
 .eventsLayerLeft.inverted .moreStuff a{background-color:#e5e9ef}
-
 #forumLayer h3{margin-top:0}
 .forumLayerLeft,.forumLayerCenter{position:relative;height:185px}
 .forumLayerLeft{width:220px;padding-right:10px;float:left}
 .forumLayerLeft p{margin-bottom:5px}
-
 .forumLayerLeft .button{margin-bottom:0!important}
 .forumLayerCenter{width:444px;margin-left:10px;display:inline;float:left;overflow:hidden}
 .forumLayerRight{width:160px;padding-left:10px;padding-right:9px;margin-right:-9px;display:inline;float:right;overflow:hidden;border-left:1px solid #e1e7ed;height:195px;margin-bottom:-10px}
@@ -886,10 +838,6 @@ body.isSandbox #page{*margin-top:6px!important}
 #menuHint li.listingsLayer a{border-left:none}
 #menuHint li:last-child a{border-right:0}
 #menuHint li a strong{color:#002a61}
-
-
-
-
 #menuHint li.weather{height:29px;border-left:1px solid #bfcbd8;border-right:1px solid #0d2b46;border-bottom:1px solid #bfcbd8;margin:0 0 -1px 0;width:108px;background-color:#e6eaee;background:#e8ecef;background:-moz-linear-gradient(top,#e8ecef 0,#dfe4e9 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#e8ecef),color-stop(100%,#dfe4e9));background:-webkit-linear-gradient(top,#e8ecef 0,#dfe4e9 100%);background:-o-linear-gradient(top,#e8ecef 0,#dfe4e9 100%);background:-ms-linear-gradient(top,#e8ecef 0,#dfe4e9 100%);background:linear-gradient(to bottom,#e8ecef 0,#dfe4e9 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e8ecef',endColorstr='#dfe4e9',GradientType=0)}
 #menuHint li.weather #idojaras img{display:block;float:left;margin:1px 0 0 4px;width:28xp;height:28px}
 #menuHint li.weather #idojaras div{float:left;margin:5px 0 0 6px;font-weight:700}
@@ -904,12 +852,10 @@ body.isSandbox #page{*margin-top:6px!important}
 #header .borderer .button span{color:#8ba5c2;padding:0 2px}
 #header .borderer b.sep{border:1px solid #274e72;border-right:1px solid #12314e;display:inline-block;width:0;height:18px;margin-top:4px;vertical-align:top}
 #header .fancySearch span{color:#8ba5c2}
-
 #profilePanel .separ{height:29px;width:0;float:left;margin:7px 0 0;border-left:1px solid #345176;border-right:1px solid #203a5d}
 #profilePanel .infoLink{display:block;float:left;margin:6px 4px 0 4px;cursor:pointer}
 #profilePanel .infoLink:hover{border:1px solid #193861;border-bottom:0 none;-moz-border-radius:4px;-khtml-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;text-decoration:none;margin:4px 3px 0 2px}
 #profilePanel .infoLink:hover .bg{border-top:1px solid #526887;border-left:1px solid #526887;-moz-border-radius:4px;-khtml-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;background-color:#304c71}
-
 #profilePanel #friendPanel span{background-position:0 -58px}
 #profilePanel #friendPanel.single .bg,#profilePanel #friendPanel.double .bg{background-position:1px -418px}
 #profilePanel #msgPanel span{background-position:0 -88px}
@@ -920,7 +866,6 @@ body.isSandbox #page{*margin-top:6px!important}
 #profilePanel .single .new,#profilePanel .double .new{position:absolute;top:-13px;left:0;display:block;background-position:-2px -554px!important;text-align:center;color:#fff;height:20px;width:26px;padding:0;font-weight:bold;font-size:10px;line-height:14px;cursor:pointer;margin:0 0 0 2px}
 #profilePanel .double .new{background-position:-2px -581px!important}
 #profilePanel .single:hover .new,#profilePanel .double:hover .new{margin:1px 0 0 3px}
-
 #profilePanel .gadgets-gadget-chrome{float:left;width:30px;height:50px;margin:-10px 2px 0;padding:0;overflow:hidden}
 #profilePanel.with-notification{width:283px}
 .isAdmin #profileOptions{top:58px}
@@ -930,10 +875,7 @@ body.isSandbox #page{*margin-top:6px!important}
 }#profileOptions li{display:block;height:32px;padding:2px 0 0 2px;width:100%}
 #profileOptions li .avatar{display:block;width:30px;height:30px;float:left;position:relative}
 #profileOptions li .avatar img{width:30px;height:30px;-moz-border-radius:3px;-khtml-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}
-
-
 #profileOptions .dropItem{border-bottom:1px solid #12253e;height:auto;padding:0;overflow:hidden;display:none}
-
 #profileOptions .dropItem a:hover{background-color:#203551;color:#fff;text-decoration:none}
 #profileOptions li.last,#profileOptions li.last a{border-bottom:0 none;padding-bottom:4px;height:23px}
 #adminTools,#adminMenu{border:1px solid #b7c1cd;font-weight:bold;font-size:13px;background-image:-moz-linear-gradient(top,#dfe5ec,#c7d1dd);background-image:-webkit-gradient(linear,left top,left bottom,from(#dfe5ec),to(#c7d1dd));filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffdfe5ec,endColorstr=#ffc7d1dd);padding:5px 0 5px 25px;margin:10px 0;overflow:hidden}
@@ -945,20 +887,15 @@ body.isSandbox #page{*margin-top:6px!important}
 #applicationsLayer .appMini .user{font-size:13px;color:#8c8e92}
 #applicationsLayer .appMini .image{float:left;margin:0 7px 0 0;width:32px;height:33px}
 #applicationsLayer .appMini .data{display:block}
-
-
 #applicationsLayer{padding:0;width:885px}
 #applicationsLayer .applications{padding:10px 0 10px 10px;float:left}
 #applicationsLayer .developerBox{float:left;background:#e5e9ef;padding:10px;width:144px;min-height:190px;border-left:1px solid #d1d9e3}
 #applicationsLayer .developerBox h3{margin-top:0}
-
 #applicationsLayer .developerBox p{font-size:12px;line-height:16px;padding-top:0}
-
 .applications .newApps h3{background-position:8px -42px}
 .applications .bestApps h3{background-position:8px -143px}
 .applications .bestGames h3{background-position:8px -92px}
 .applications.container_12{width:auto}
-
 #clubsLayer .inverted{position:relative;height:180px}
 #clubsLayer .clubmicro .details{width:175px}
 #clubsLayer .clubmicro .title{max-width:175px;white-space:nowrap}
@@ -966,8 +903,6 @@ body.isSandbox #page{*margin-top:6px!important}
 #clubsLayer .recomendedClubs h3{margin-bottom:10px}
 #clubsLayer .container_12{width:865px}
 #clubsLayer .clubBox{margin-left:0}
-
-
 #clubsLayer .moreStuff a{background-color:#e5e9ef}
 #clubsLayer .recomendedClubs .moreStuff a,#clubsLayer .promotedClub .moreStuff a{background-color:#f3f5f8}
 #clubsLayer .micro .members{color:#8c8e92}
@@ -976,21 +911,17 @@ body.isSandbox #page{*margin-top:6px!important}
 #clubsLayer .promotedClub .big .body{margin-top:5px}
 #clubsLayer .promotedClub .big .members{display:block;color:#8c8e92}
 #clubsLayer .big .body .title{overflow:hidden;white-space:nowrap}
-
 #pollLayer h3{margin-top:0}
 .pollLayerLeft.inverted .moreStuff a{background-color:#e5e9ef}
 .pollLayerLeft,.pollLayerCenter{position:relative;height:185px}
 .pollLayerLeft{width:220px;padding-right:10px;float:left}
 .pollLayerLeft p{margin-bottom:5px}
-
 .pollLayerLeft .button{margin-bottom:0!important}
 .pollLayerCenter{width:625px;margin-left:10px;display:inline;float:left;overflow:hidden}
 .layerContent .pollMicros .layerMicroColumn{width:200px}
 .pollMicros{margin-right:-20px;*width:645px}
-
 #imagesLayer h3{margin-top:0}
 #imagesLayer .imageLayerLeft{float:left;width:220px;padding-right:10px;height:185px;position:relative}
-
 .layerContent .imageLayerLeft .moreStuff{width:220px}
 .layerContent .imageLayerLeft select{width:100%;margin-bottom:10px}
 .layerContent .imageLayerLeft .moreStuff a{background-color:#e5e9ef}
@@ -1014,12 +945,9 @@ body.isSandbox #page{*margin-top:6px!important}
 #header.promoHeader{position:static;height:auto}
 #header.promoHeader .borderer{height:18px;top:50%;border:0 none}
 #header.promoHeader .infoBarInner{margin-top:-12px;top:50%}
-
 #footer .footerMenu{width:132px;float:left;padding:16px 10px 14px 18px;margin:0}
-
 #footer .footerMenu li span{color:#032a61}
 #footer .features{width:621px;float:left;padding:9px 8px}
-
 #footer .features a:hover{border:1px solid #c5cfdc;text-decoration:none;-moz-border-radius:3px;-khtml-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;width:304px;background-color:#dce1e9}
 #footer a .wrapper{display:block;padding:10px 10px 9px 80px}
 #footer a:hover .wrapper{padding:8px 9px 8px 78px;border-left:1px solid #f2f4f7;border-top:1px solid #f2f4f7;-moz-border-radius:3px;-khtml-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}
@@ -1061,10 +989,7 @@ h3 a.action,h3 .actions a,h4 a.action,h4 .actions a,h3.linked .full .action{floa
 h3 .actions,h4 .actions{float:right}
 h3 .actions a,h4 .actions a{float:none}
 h3 .button{float:right;margin:-2px -6px 0 0!important;font-size:10px;font-weight:normal;color:#032a61!important}
-
 .moreStuff.last{margin-bottom:8px}
-
-
 .inverted .moreStuff a{background-color:#f3f5f8}
 img.iconSize,img.miniSize,img.defaultSize,img.thumbnailSize,img.boxSize,img.anySize,.news .imgLink,.goaFeedZone .ad-pic{background-color:#fff;padding:2px;border-right:1px solid #d8e0ea;border-bottom:1px solid #d8e0ea;-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px}
 a img.iconSize:hover,a img.miniSize:hover,a img.defaultSize:hover,a img.thumbnailSize:hover,a img.boxSize:hover,a img.anySize:hover,.news .imgLink:hover{border-color:#748ba9;background-color:#c7d1dd}
@@ -1075,8 +1000,6 @@ img.thumbnailSize{width:140px;height:140px;display:block;overflow:hidden}
 img.defaultSize{padding:3px;width:273px;min-height:50px;display:block}
 img.boxSize{max-width:620px;max-height:620px}
 div.boxPager{position:relative;height:22px;text-align:center;line-height:20px;padding:0;margin:10px 0}
-
-
 div.boxPager .button.pager{position:absolute;top:0}
 div.boxPager .boxPagerLeft{left:-1px}
 div.boxPager .boxPagerRight{right:-1px}
@@ -1102,7 +1025,6 @@ div.pager .number a:hover,div.pager .number strong{padding:2px 2px 2px 2px;borde
 div.pager .number strong{border-color:#96a7be;background-color:#96a7be;color:#fff}
 div.pager .pagerLinks{text-align:right}
 a.star,a.star span{display:inline-block;width:17px;height:16px;outline:0;cursor:pointer}
-
 a.star .fav{background-position:-6px -1107px}
 a.star .busy{cursor:progress}
 .admintools{border:1px solid #ea9d99;padding:10px;margin:20px 0;background-color:#f6d6d5;white-space:nowrap}
@@ -1111,7 +1033,6 @@ table{overflow:hidden;width:100%;border-collapse:separate;border-spacing:0;*bord
 table p{margin:0}
 thead th{font-weight:bold;text-align:left;color:#191e25;font-size:11px}
 thead th a{color:#191e25}
-
 thead th.desc a{background-position:100% -1006px}
 thead th.asc a{background-position:100% -1051px}
 th{font-size:12px}
@@ -1129,7 +1050,6 @@ p.emptylist,.emptylist strong{color:#7f98b2;font-weight:bold}
 p.emptylist{padding-top:8px;padding-bottom:8px}
 .emptylist strong,.emptylist p{display:block;margin:8px 0}
 .gap{margin:10px}
-
 .imagePager{position:relative;margin:0 0 10px 0;height:75px;overflow:hidden}
 .imagePager .imgList{position:absolute;left:0;top:0;height:75px;min-width:285px}
 .imagePager .next,.imagePager .prev{position:absolute;top:3px;background:#fff;display:none;outline:0}
@@ -1148,7 +1068,6 @@ p.emptylist{padding-top:8px;padding-bottom:8px}
 .albumPager .albumlist .album.active{border:1px solid #ccd6e1;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;margin:-1px 5px 7px -7px}
 .albumPager .boxPager{margin-bottom:20px}
 .albumPager .boxPager ul{white-space:nowrap;overflow:hidden;height:22px}
-
 .albumPager .album .wrapper:hover{background-position:50% -12px}
 .albumPager .album .count{position:absolute;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;line-height:12px;color:#000;font-size:10px;padding:0 3px;bottom:3px;left:3px;background:#fff;border:1px solid #c6d3e1}
 .albumPager .album .wrapper .img{display:inline-block;width:85px;border:1px solid #e3e9f3;background:#e3e9f3;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px}
@@ -1169,9 +1088,6 @@ p.emptylist{padding-top:8px;padding-bottom:8px}
 .infoBox p{color:#8c8e92}
 .field .gradeBox .wrapper{width:212px}
 .gradeBox .wrapper{display:inline-block;height:10px;padding:3px;border:1px solid #c7d1dd;border-radius:7px;-moz-border-radius:7px;-webkit-border-radius:7px}
-
-
-
 .empty .gradeBox .grade{background-position:0 -10px}
 .weak .gradeBox .grade{background-position:0 -20px;width:25%}
 .normal .gradeBox .grade{background-position:0 -30px;width:50%}
@@ -1180,7 +1096,6 @@ p.emptylist{padding-top:8px;padding-bottom:8px}
 .inputValue #pwStrength{margin-left:-5px}
 .field #pwText{color:#7f94b0;font-size:10px;top:6px}
 .arrowList{list-style-type:none;padding:0;margin:-10px 0 0;overflow:hidden}
-
 .attentionBox{background:#f3f5f8;border:1px solid #c7d1dd;padding:10px;margin:10px 0}
 .attentionBox.dashed{border-style:dashed}
 .attentionBox h3{margin:0;border:0;padding:0 0 0 20px}
@@ -1216,22 +1131,18 @@ p.emptylist{padding-top:8px;padding-bottom:8px}
 #getAlias .on.prot{border-color:#c3ad47;background:#ecd468;background-image:-moz-linear-gradient(top,#f0dd86,#ecd468);background-image:-webkit-gradient(linear,left top,left bottom,from(#f0dd86),to(#ecd468));filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#fff0dd86,endColorstr=#ffecd468);box-shadow:inset 0 1px 0 #f3e39e;-moz-box-shadow:inset 0 1px 0 #f3e39e;-webkit-box-shadow:inset 0 1px 0 #f3e39e}
 .aliasField .input .error{display:none}
 .button.ppLink{margin-top:3px!important}
-
 #link-pp:hover{text-decoration:none}
-
 .pageTitle .alias{display:block;font-size:11px;color:#8c8e92;font-weight:normal}
 #popupPage .formattedText #aliasHint{color:#8c8e92;width:200px;font-size:10px;line-height:1.3;margin:5px 20px 0 0;float:right}
 #aliasForm fieldset{height:200px}
 .iwiwStats{margin:0 0 15px 0;padding-bottom:15px}
 .iwiwStats .graphRow{border-bottom:1px solid #e3e8ee;padding:5px 0}
 .iwiwStats .graphRow span{display:inline-block}
-
 .iwiwStats .statRow.active{background-position:0 -178px}
 .iwiwStats .range{width:75px;text-align:center;color:#8c8e92;font-size:12px;line-height:30px;padding-left:20px}
 .iwiwStats .count{font-size:12px;font-weight:bold}
 .tooltip.image{float:left}
 .tooltip.image .content{background-color:#002a61;padding:7px;color:#fff;font-size:11px;font-family:sans-serif;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px}
-
 .tooltip.topLeft .container{position:relative}
 .tooltip.topLeft .content{margin-top:4px}
 .tooltip.topLeft .bottom{position:absolute;top:-4px;width:100%;background-position:-5px -1720px}
@@ -1256,13 +1167,10 @@ p.emptylist{padding-top:8px;padding-bottom:8px}
 .discount-question .discount-image-wrapper{border-radius:4px;-webkit-box-shadow:0 0 5px 0 rgba(0,0,0,0.2);-moz-box-shadow:0 0 5px 0 rgba(0,0,0,0.2);box-shadow:0 0 5px 0 rgba(0,0,0,0.2);height:75.2%;width:68%;overflow:hidden;position:relative;text-align:center}
 .templateContainer .discount-question .discount-image-wrapper,.recommendationBox .discount-question .discount-image-wrapper{width:100%}
 .discount-question .discount-image{height:auto!important;width:auto!important;min-height:100%;min-width:100%}
-
 .discount-question .offer-title,.discount-question .offer-price{display:inline-block;vertical-align:top;color:#fff;font-size:14px;height:50px;text-transform:uppercase;font-weight:bold;overflow:hidden;line-height:1.3;margin:20px 0}
 .discount-question .offer-title{text-align:left;width:70%}
 .discount-question .offer-price{font-size:20px;text-align:right;width:30%}
-
 #interstitial-kaposvar{background:rgba(0,0,0,.8);left:0;height:100%;position:fixed;top:0;width:100%;z-index:9999}
-
 #interstitial-content h2{margin:13px 0;color:#224575;font-weight:normal}
 #interstitial-content li,#interstitial-content p{margin:13px 0;font-size:13px}
 #interstitial-accept-wrapper{left:0;margin:0 0 0 20px;position:absolute;top:430px;width:475px}
@@ -1274,7 +1182,6 @@ p.emptylist{padding-top:8px;padding-bottom:8px}
 .tabber .secondary .tab a{border-radius:0;-moz-border-radius:0;-webkit-border-radius:0}
 .tabber .secondary .tab.last a{border-radius:0 0 4px 4px;-moz-border-radius:0 0 4px 4px;-webkit-border-radius:0 0 4px 4px}
 .tabber .tab a{padding:12px 14px 13px;line-height:14px;font-size:13px;font-weight:bold;text-decoration:none;background-color:#f2f4f7;color:#002a61;border:1px solid #c7d1dd;margin:0 2px 0 3px}
-
 .tabber .tab.active a{background-color:#fff;color:#000;padding-bottom:14px}
 .tabber .tab a:hover,.tabber .tab a:focus{background-color:#dce3ea}
 .tabber .secondary .tab a:hover,.tabber .secondary .tab a:focus{background-color:#f3f5f8;color:#002a61}
@@ -1303,17 +1210,13 @@ ul.listBox li p{margin:0}
 .missingDataSideBox h3{background-color:#ffeb8e;color:#d53930;border-bottom:1px solid #ecd362;margin:0 -10px -1px}
 .missingDataSideBox .content{padding:10px 10px 0 10px}
 .missingDataItem{border-top:1px solid #ecd362;margin:0 -10px;padding:10px;position:relative}
-
 .missingDataItem strong{line-height:14px;font-size:11px}
-
-
 .button{display:inline-block;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;font-size:12px;font-weight:bold;text-decoration:none;cursor:pointer;margin:0 2px 0 0!important;color:#002a61;border:1px solid #c7d1dd;padding:1px;background:#fff}
 .button span{display:inline-block;position:relative;line-height:19px;padding:0 6px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border-right:1px solid #e9eef3;border-bottom:1px solid #e9eef3;border-top:1px solid #fff;border-left:1px solid #fff;min-width:7px}
 * html .button span{position:static}
 .button:hover{background:#f3f5f8;text-decoration:none}
 .button:hover span{border-color:#f3f5f8 #dee4ed #dee4ed #f3f5f8}
 .button:active span{border-color:#dee4ed #f3f5f8 #f3f5f8 #dee4ed}
-
 button.button{text-align:center;zoom:1;position:relative;width:auto;overflow:visible}
 button.button::-moz-focus-inner{border:0;padding:0}
 button.button span{white-space:nowrap;*margin:-1px -1px -2px}
@@ -1362,7 +1265,6 @@ button.button span{white-space:nowrap;*margin:-1px -1px -2px}
 .button .hide{position:absolute;left:-2000px;top:-2000px}
 .friendButtons .showWindow:hover{text-decoration:none}
 a.buttonHolder:hover{text-decoration:none!important}
-
 .icon.yes{background-position:0 -182px}
 .icon.message{background-position:0 -330px}
 .icon.no{background-position:0 -79px}
@@ -1583,7 +1485,6 @@ body .mini .options{display:none}
 .usermini.friend{background:#f2f9e7;border-color:#e8ede1}
 .usermini.myself{background:#fffae5;border-color:#f2ecd4}
 .usermini.pendingin,.usermini.pendingout{background:#fbebea;border-color:#f1dddc}
-
 .usermini .friends{margin-top:33px;padding:0 10px;clear:both}
 .usermini .more{font-size:10px;color:#7c91ae;font-weight:bold;outline:0 none;position:absolute;right:10px}
 .usermini .more span{font-size:8px}
@@ -1598,11 +1499,6 @@ body .mini .options{display:none}
 .usermini .friendsCont{padding-top:1px}
 .usermini .nameToolTipName,.user .nameToolTipName{position:absolute;z-index:1;background:#002a61;border-radius:2px;-moz-border-radius:2px;-webkit-border-radius:2px;padding:3px 7px;color:white;height:15px;font-size:11px;top:-27px;left:9px;white-space:nowrap;line-height:16px}
 .usermini .nameToolTipName span,.user .nameToolTipName span{color:#002a61;position:absolute;top:16px;left:4px}
-
-
-
-
-
 .eventmini .button{margin:0!important}
 .eventmini .star-rating-container{margin-left:-2px}
 .eventmini .options,.clubmini .options{padding:8px;background:#fff}
@@ -1613,13 +1509,7 @@ body .mini .options{display:none}
 .eventmini .details .title,.clubmini .details .title{height:30px;margin-bottom:6px}
 .pollmini .details .title{height:30px;margin-bottom:3px}
 .eventmini .details .rateIt{color:#a6a8ac;line-height:14px}
-
 .mini .badge{display:block;width:74px;height:14px;float:left;margin-left:-70px;margin-top:48px}
-
-
-
-
-
 .clubmini .icons{float:right;height:16px;padding-top:2px;margin-right:-3px}
 .clubmini .icons .icon{float:left;padding-left:0;width:20px;height:16px}
 .big{width:145px;margin:0;overflow:hidden}
@@ -1674,7 +1564,6 @@ ul.microList li{border-bottom:1px solid #e3e8ee;margin-bottom:-1px}
 .nanoUserList .usernano a{margin-right:14px}
 #eventWelcomeBox .nanoUserList .usernano a{margin-right:6px}
 #anniversarieslist .micro .body .greet{display:block}
-
 #anniversarieslist .usermicro .body{max-width:80%}
 form.microLoginForm{border:0;padding:0;width:420px;margin:0}
 .microLoginForm p{padding:0 19px}
@@ -1687,7 +1576,6 @@ form.microLoginForm{border:0;padding:0;width:420px;margin:0}
 .reshare.feed .item{margin:0;padding:20px 20px 0 20px;border-bottom:0;width:460px}
 .reshare.feed .item .videoPlayer{position:relative}
 .reshare .dialogTitle{display:none}
-
 body.error #content{font-family:Tahoma,Arial,sans-serif}
 body.error .errorbox{position:absolute;width:390px;left:50%;margin-left:-185px;top:190px}
 body.error .errorbox h1{font-size:22px;font-weight:bold;color:#1d4b86;text-shadow:1px 1px 0 #fff;margin:0}
@@ -1701,7 +1589,6 @@ body.error .errorbox .logo{display:block;width:90px;height:90px;float:left;margi
 #error404 #suggest small{font-size:8px;padding-right:5px;position:relative;top:-2px}
 #error404 .bgCover{margin-top:0;position:relative}
 #error404 div.boxerror{margin:10px 0;background-color:#ff0500;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;color:#fff;padding:15px;overflow:hidden}
-
 .error404box h1{font-size:34px;font-weight:normal;color:#1d4b86;margin:30px 0 5px 0}
 .error404box p{color:#656565;font-size:15px;font-weight:normal;line-height:21px;margin-top:0}
 .errorTipBox{position:absolute;right:30px;width:228px}
@@ -1710,10 +1597,8 @@ body.error .errorbox .logo{display:block;width:90px;height:90px;float:left;margi
 .errorTipInner p{font-size:12px;line-height:17px;color:#191e25;margin-top:5px;margin-bottom:0}
 #error404LoggedIn{top:0}
 #error404LoggedIn .errorTipInner{margin-top:33px}
-
 #error404LoggedOut{top:354px;padding-left:50px}
 #error404LoggedOut .errorTipInner h2{font-size:15px}
-
 #googleSearch{width:938px;margin:0}
 .gsc-control-cse form.gsc-search-box{width:50%;margin:0 auto}
 table.gsc-search-box td{border-top:0 none;padding:0}
@@ -1761,8 +1646,6 @@ a.gsc-trailing-more-results:link{color:#60c}
 .tooltip.iwiwbubble.topRight,.tooltip.iwiwbubble.bottomRight{background:0}
 .tooltip.iwiwbubble.bottomRight .head{margin-top:-12px}
 .tooltip.iwiwbubble{padding-top:0}
-
-
 .tooltip.iwiwbubble .head div div{color:#fff;font-size:13px;font-weight:bold;padding:7px 15px}
 input[type=text],input[type=password],textarea,select{border:1px solid #c7d1dd;background:#fff;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;outline:0;font:12px Arial,Tahoma,sans-serif}
 input[type=text],input[type=password],textarea{color:#191e25;padding:4px;box-shadow:inset 0 1px 4px #dde1e6;-moz-box-shadow:inset 0 1px 4px #dde1e6;-webkit-box-shadow:inset 0 1px 4px #dde1e6}
@@ -1784,9 +1667,7 @@ a.reset{font-size:12px;font-weight:bold;position:relative;left:5px;top:1px}
 .infoBar p{-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;font-weight:normal;font-size:12px;color:#191e25;padding:11px 10px 11px 33px;margin:20px 0}
 .infoBar .infoBarInner strong{font-weight:bold;font-size:14px;padding:0 10px 0 0}
 .infoBar .infoBarInner span{padding:0 0 0 10px;border-left:1px dotted #7b847b}
-
 .infoBarError strong{color:#d53930}
-
 .infoBarSuccess strong{color:#589419}
 form.general{margin:20px 0}
 form.general .field{margin:20px 0}
@@ -1805,7 +1686,6 @@ form.general .input input[type=text].inline,form.general .input input[type=passw
 form.general fieldset{background-color:#f3f5f8;border:1px solid #c7d1dd}
 form.general fieldset hr{border:1px solid #c7d1dd;border-width:1px 0 0 0}
 form.general .extraText{margin:0 5px;position:relative;top:5px}
-
 form.general .inputValue{margin:0 5px;position:relative;top:4px;font-size:12px}
 form.general .hint{color:#8c8e92}
 form.filter{margin:20px 0;line-height:25px}
@@ -1815,7 +1695,6 @@ form.filter .buttons{display:inline-block;zoom:1;*display:inline;vertical-align:
 }form.filter .error{display:block;text-align:left}
 .admintools input[type=text],.admintools input[type=password],.admintools input textarea,.admintools input select{border-color:#ea9d99}
 .field .icons{left:100%;top:0;margin-left:10px;position:absolute;line-height:25px;float:left;width:100px}
-
 a.unlocked{background-position:50% -515px}
 #content a.help{position:relative;font-weight:normal;z-index:501;margin-right:8px;zoom:1}
 #content a.help .mark{font-size:10px;border:1px solid #c7d1dd;border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;padding:1px 4px 1px 5px;font-weight:bold}
@@ -1825,7 +1704,6 @@ a.unlocked{background-position:50% -515px}
 #content a.help .text{display:none;position:absolute;z-index:502;width:230px;background:#f3f5f8;border:1px solid #c7d1dd;bottom:25px;right:-5px;padding:10px;text-decoration:none;line-height:15px;color:#191e25;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;font-size:11px}
 #content a.help .triangle,#content a.help .triangle span{border-left:5px solid transparent;border-right:5px solid transparent;border-top:6px solid #c7d1dd;width:0;height:0;position:absolute;bottom:-7px;*bottom:-6px;bottom:-6px\9;right:7px;z-index:2}
 #content a.help .triangle span{border-top:6px solid #f3f5f8;bottom:1px;right:-5px}
-
 form.uniform .selector,form.uniform .selector.active{height:25px}
 form.uniform .selector span,form.uniform .selector.active span,form.uniform .selector:active span{background-color:#fff;background-position:100% -25px;color:#2d578e;font-size:11px;padding-left:0}
 form.uniform .grid_3 .selector{width:210px}
@@ -1841,7 +1719,6 @@ span.filterSearch{display:inline-block}
 h3 .filterSearch{margin:-1px 0 0 0}
 .filterSearch .text,.filterSearch .submit,.filterSearch .text:focus{border:0;background:transparent none;box-shadow:none;-moz-box-shadow:none;-webkit-box-shadow:none;color:#999;font-size:11px;outline:0}
 .filterSearch .text{padding:2px 0 0 4px;width:180px}
-
 .resetButton{display:none}
 form.shoppingEdit label.counter{border:1px solid #c7d1dd;background:#e9edf4;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;outline:0;padding:3px;vertical-align:top}
 form.remote .disabler{display:none}
@@ -1885,47 +1762,36 @@ form.remote .disabler{display:none}
 .ui-dialog .description{padding:0 20px 10px 180px;margin-top:-10px;font-size:10px}
 .taskbar{position:fixed;bottom:0;left:3px;font-size:11px;width:995px;z-index:1100;height:37px}
 * html .taskbar{position:absolute}
-
 .taskbar .leftSide,.taskbar .rightSide{width:11px;text-align:-999em;background-position:-175px -58px}
 .taskbar .rightSide{background-position:-95px -58px;width:13px}
 .taskbar .windows .leftArea{float:left}
 .taskbar .windows .rightArea{float:right}
 .taskbar .windowButton{height:26px;position:absolute;z-index:1102;cursor:pointer;margin-top:6px;-webkit-user-select:none;-moz-user-select:none}
-
 .taskbar .taskbarTitle{display:block;float:left;font-weight:bold;color:#143493;padding:7px 0 0 6px}
 .taskbar .taskbarTitle span{font-weight:normal;color:#90abd9}
-
 .taskbar .windowButton .winR{background-position:-290px -113px}
 .taskbar .windowButton .winC{width:176px;background-position:-10px -113px;position:relative}
 .taskbar .openedWindow .windowButton{margin-top:1px}
 .taskbar .openedWindow .windowButton .taskbarTitle{font-weight:normal;color:#686868}
-
 .taskbar .openedWindow .windowButton .stateIcon{background-position:-179px -226px}
-
 .taskbar .openedWindow .windowButton .winL,.taskbar .openedWindow .windowButton .winR,.taskbar .openedWindow .windowButton .winC{height:31px}
 .taskbar .openedWindow .windowButton .winL{background-position:0 -157px}
 .taskbar .openedWindow .windowButton .winR{background-position:-290px -157px}
 .taskbar .openedWindow .windowButton .winC{background-position:-10px -157px;padding-top:3px}
 .taskbar .taskbarApp{width:184px;float:left;height:30px;margin:0 2px;position:relative}
 .taskbar .taskbarWindow{position:absolute;bottom:29px;left:0;width:183px;z-index:1101;display:none}
-
 .taskbar .taskbarWindow .winR{width:180px;background-position:-149px -328px;position:relative;padding:0}
-
 .taskbar .taskbarWindow .titleBar .buttons{position:absolute;right:3px;top:5px}
-
 .taskbar .taskbarWindow .titleBar .buttons a.minimizeBtn{background-position:-331px -228px}
 .taskbar .taskbarWindow .titleBar .title{color:#686868;padding:6px 29px 6px 9px}
 .taskbar .windowContent .loading{margin:5px}
 .taskbar .openedWindow .taskbarWindow{display:block!important}
 .taskbar .taskbarHiderApp{width:26px}
-
 .taskbarHiderApp .windowButton *{display:none}
-
 * html .taskbarHiderWindow{position:absolute}
 .taskbarHiderWindow{display:none}
 .taskbarHiderWindowOpened{display:block}
 .taskbar .dividerApp{width:9px}
-
 .dividerWindow{display:none}
 .resizableImageGhost{position:absolute;top:0;left:-100px;width:1px;height:1px;overflow:hidden}
 .taskbar .adminMsgApp.openedWindow .windowButton{margin-top:6px}
@@ -1940,13 +1806,10 @@ form.remote .disabler{display:none}
 .taskbar .adminMsgApp .windowButton .stateIcon{display:none}
 .taskbar .adminMsgApp .taskbarWindow{font-size:12px;z-index:1102;width:330px}
 .taskbar .adminMsgApp .taskbarWindow .messageBody{max-height:700px;overflow:auto}
-
 .taskbar .adminMsgApp .taskbarWindow .titleBar .buttons a.minimizeBtn{display:none}
 .taskbar .adminMsgApp .taskbarWindow .titleBar .title{color:#002a61;padding:10px 28px 8px 10px;font-weight:bold}
 .taskbar .adminMsgApp .taskbarWindow .titleBar .buttons{right:11px;top:12px}
-
 .taskbar .adminMsgApp .windowContent .contents{padding:7px 4px 4px 10px}
-
 .taskbar .appsApp .taskbarWindow .titleBar .buttons a.closeBtn{display:none}
 .taskbar .appsApp .taskbarWindow .titleBar .title{padding-left:6px}
 .taskbar .appsApp .taskbarWindow .titleBar .title a{color:#686868}
@@ -1956,7 +1819,6 @@ form.remote .disabler{display:none}
 .taskbar .appsApp .windowContent a img{display:block;float:left;width:16px;margin:0 5px 0 9px}
 .taskbar .appsApp .windowContent a strong{display:inline-block;white-space:nowrap;margin:1px 7px 2px 0}
 .taskbar .appsApp .windowContent a.recommended{background:#f0f2f5}
-
 .taskbar .appsApp .windowContent h3 a,.taskbar .favApp .windowContent h3 a{display:block;border:0;margin:0;padding:0;background:transparent;color:#686868}
 .taskbar #myAppsWrapper.longList{max-height:235px;overflow-y:auto;margin-bottom:1px}
 .taskbar .favApp .taskbarWindow .titleBar .title a{color:#686868}
@@ -1972,24 +1834,18 @@ form.remote .disabler{display:none}
 .taskbar .advertApp{width:auto;margin-right:4px}
 .taskbar .advertApp .windowButton,.taskbar .advertApp.openedWindow .windowButton{position:static;margin-top:7px;pointer:default}
 .taskbar .advertApp .windowButton .winL,.taskbar .advertApp .windowButton .winC,.taskbar .advertApp .windowButton .winR{display:inline-block;float:none}
-
-
-
 .taskbar .advertApp .windowButton .taskbarTitle{padding:5px 6px 0}
 .taskbar .advertApp .windowButton .taskbarTitle,.taskbar .advertApp .windowButton .taskbarTitle a{color:white;font-weight:bold;white-space:nowrap}
 .dirty{position:absolute;color:white;font-weight:bold}
 .dirty span{display:block;float:left}
-
 span.dirty_l,span.dirty_r{display:none;width:8px;height:20px}
 .dirty_ellastic span.dirty_c{background-position:-89px -209px;padding:2px 0;height:15px;width:auto}
-
 .dirty_ellastic span.dirty_r{background-position:-164px -209px}
 .taskbar .chatConversations{display:inline;width:221px}
 .taskbar .chatConversations .taskbarWindow{width:220px}
 .taskbar .chatConversations .taskbarWindow .winL{width:214px}
 .taskbar .chatConversations .taskbarWindow .winR{width:216px;background-position:-112px -328px}
 .taskbar .chatConversations .windowButton .winC{width:213px}
-
 .chatApp .profile .my_avatar img{width:30px;height:30px}
 * html .chatApp .profile .my_avatar{display:inline}
 .chatApp .profile .otherDatas{float:left;width:120px;padding-top:9px}
@@ -2000,13 +1856,10 @@ span.dirty_l,span.dirty_r{display:none;width:8px;height:20px}
 .chatApp .profile .my_presence{position:relative}
 .chatApp .profile .presenceItem{display:block;height:16px;cursor:default;margin:3px 0}
 .chatApp .profile .presenceItem em{display:block;float:left;font-style:normal;cursor:default;color:#686868}
-
 .chatApp .profile .presenceItem span.dnd{background-position:-1px 0}
 .chatApp .profile .presenceItem span.chat{background-position:-41px 0}
 .chatApp .profile .presenceItem span.away{background-position:-121px 0}
 .chatApp .profile .presenceItem span.unavailable,.chatApp .profile .presenceItem span.offline{background-position:-81px 0}
-
-
 .chatApp .profile .presenceDropDown .presenceItem{margin-left:1px;padding-left:4px}
 .chatApp .profile .presenceSelect .presenceItem em,.chatApp .profile .presenceDropDown .presenceItem em{-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-o-user-select:none;user-select:none}
 .chatApp .profile .presenceDropDown .presenceItem:hover{background:#e2e8ef}
@@ -2020,22 +1873,16 @@ span.dirty_l,span.dirty_r{display:none;width:8px;height:20px}
 .chatApp .rosterPanel{padding-bottom:2px;margin:0 -2px -3px 0;background:white}
 .chatApp .rosterPanel .noOnlineBuddies,.chatApp .rosterPanel .loadingTxt,.chatApp .rosterPanel .loggedoutTxt,.chatApp .rosterPanel .fatalError{clear:both;padding:5px;color:#3b2d99}
 .chatApp .rosterPanel .loggedoutTxt{font-weight:bold}
-
-
 .chatApp .rosterPanel ul.unavailable{display:none}
 .chatApp .rosterContainer ul.layoutTree .opened strong .usersCount{display:none}
 .chatApp .level0 strong{padding:6px 0}
-
 .chatApp .level0 strong b:hover{text-decoration:underline}
-
 .chatApp .messageDenied .groupPrivacy{background-position:-246px -49px}
 .chatApp .messageDenied strong b{color:#eb4460}
-
 .chatApp .contact{font-weight:bold;color:#002a61;padding:7px 8px;cursor:pointer}
 .chatApp .contact em{display:block;float:left;width:130px;overflow:hidden;font-style:normal;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-o-user-select:none;user-select:none}
 .chatApp .messageDenied .contact{color:#7f94b0}
 .taskbar .offline{display:none}
-
 .chatApp .dnd.contact span{background-position:0 0}
 .chatApp .chat.contact span{background-position:-41px 0}
 .chatApp .away.contact span{background-position:-121px 0}
@@ -2072,13 +1919,10 @@ span.dirty_l,span.dirty_r{display:none;width:8px;height:20px}
 .chatConversations .windowButton span.dirty{top:4px;right:18px}
 .chatConversations .windowButton span.dirty_c{color:white;font-weight:bold}
 .chatConversations .partnerMarker{height:9px;border-top:1px solid #dee4ec;margin:1px -3px 0 0}
-
 .chatConversations .activePartners{margin:0;padding:0 0 0 8px;list-style-type:none}
 .chatConversations .activePartners li{margin:5px 3px;display:block;float:left;position:relative}
-
 .chatConversations .activePartners .avatar a{display:block;width:30px;height:30px;padding:2px}
 .chatConversations .activePartners .avatar img{width:30px;height:30px}
-
 .chatConversations .activePartners .hint span{white-space:nowrap;clear:both;display:block}
 .chatConversations .activePartners .dirty{top:17px;right:-9px}
 .chatConversations .activePartners li.user_dnd .avatar{background-position:0 -119px}
@@ -2135,12 +1979,10 @@ span.dirty_l,span.dirty_r{display:none;width:8px;height:20px}
 .commentLike .commentContent{margin-bottom:-1px}
 .commentLike .comments ul{margin:0;padding:0}
 .commentContent .commentAlert{color:#81858c;font-size:10px;float:left;text-align:left;width:50%}
-
 .commentLike .header,.commentLike li.comment,.commentLike .comment.form{border-bottom:1px solid #e5e9ef;padding:8px}
 .commentLike li.comment a.replyLink{display:inline-block;padding-right:2px}
 .commentLike .header{font-size:10px;display:block}
 .commentLike .header b{color:#0d3e7e;font-weight:normal}
-
 .likable .arrow{left:92px}
 .commentLike li.comment,.commentLike .comment.form{overflow:auto}
 .commentLike .comment .image{float:left;width:35px;margin:0}
@@ -2189,7 +2031,6 @@ span.dirty_l,span.dirty_r{display:none;width:8px;height:20px}
 #searchLayer div.item{border-top:1px solid #e1e6ed;padding:3px 10px}
 #searchLayer div.item.active{background:#eaeef3}
 #searchLayer .item.first{border-top:0 none}
-
 #searchLayer .noResult{margin:10px;font-weight:bold;color:#798fac}
 #header .filterSearch.open{-moz-border-radius:5px 5px 0 0;-webkit-border-radius:5px 5px 0 0;border-radius:5px 5px 0 0}
 #header .filterSearch.open .submit{background-position:50% -3281px}

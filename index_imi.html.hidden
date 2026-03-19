@@ -2,18 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-
   <title>iWiW Fórum Archívum</title>
 	
   <meta name="description" content="Régi iWiW fórumtopikok böngészhető archívuma immereknek.">
-
 	
   <meta name="author" content="dzso">
-
   <link rel="stylesheet" href="iwiw.css">
-
 </head>
-
 <body>
 <h1>
 		<span class="inline"><a href="forum/topic_1/page_1.html">normál</a></span>
