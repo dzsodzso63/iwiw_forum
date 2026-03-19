@@ -1698,6 +1698,13 @@ form.filter .buttons{display:inline-block;zoom:1;*display:inline;vertical-align:
 a.unlocked{background-position:50% -515px}
 #content a.help{position:relative;font-weight:normal;z-index:501;margin-right:8px;zoom:1}
 #content a.help .mark{font-size:10px;border:1px solid #c7d1dd;border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;padding:1px 4px 1px 5px;font-weight:bold}
+body.forum .feed .item,body.forum .reshare.feed .item{padding:16px 0 18px;border-bottom:1px solid #d7e0ea}
+body.forum .feed .item:last-child,body.forum .reshare.feed .item:last-child{border-bottom:0}
+body.forum .feed .item:nth-child(even),body.forum .reshare.feed .item:nth-child(even){background:rgba(226,233,241,.2)}
+body.forum .feed h5{margin:0 0 10px;font-size:16px;line-height:1.45}
+body.forum .feed h5 .owner{font-weight:700;color:#15304f;letter-spacing:.01em}
+body.forum .feed .bodyText{font-size:15px;line-height:1.8;font-weight:500;color:#12263f}
+body.forum .feed ul.info li{font-size:12px;line-height:1.5;color:#5c6d82}
 @media only screen and (max-width:820px),only screen and (max-device-width:820px){
 html{-webkit-text-size-adjust:112%}
 body{min-width:0;background:#f3f5f8;font-size:14px}
@@ -1724,12 +1731,13 @@ img.boxSize,img.defaultSize,.bodyText img{max-width:100%;height:auto}
 .headInfo{padding-top:16px}
 .headInfo h1{margin-bottom:10px;word-wrap:break-word}
 .headInfo .details p,.headInfo .description p{margin:6px 0;font-size:14px;line-height:1.55}
-.feed .item,.reshare.feed .item{width:auto;padding:14px 0;border-bottom:1px solid #d9e1ea}
+.feed .item,.reshare.feed .item{width:auto;padding:16px 0 18px;border-bottom:1px solid #d9e1ea}
 .feed .item:last-child,.reshare.feed .item:last-child{border-bottom:0}
+.feed .item:nth-child(even),.reshare.feed .item:nth-child(even){background:rgba(225,232,240,.26)}
 .feed .wrap,.feed .inner{width:auto;max-width:100%}
-.feed h5{margin:0 0 10px;font-size:16px;line-height:1.4}
-.feed h5 .owner{color:#15304f}
-.bodyText{font-size:16px;line-height:1.75;font-weight:500;color:#12263f;word-wrap:break-word;overflow-wrap:anywhere}
+.feed h5{margin:0 0 10px;font-size:17px;line-height:1.45}
+.feed h5 .owner{color:#15304f;font-weight:700;letter-spacing:.01em}
+.bodyText{font-size:17px;line-height:1.8;font-weight:500;color:#12263f;word-wrap:break-word;overflow-wrap:anywhere}
 .bodyText a{overflow-wrap:anywhere}
 ul.info{display:flex;flex-wrap:wrap;gap:6px 14px;padding:0;margin:10px 0 0;list-style:none}
 ul.info li{float:none;font-size:12px;line-height:1.5;color:#5c6d82}
@@ -1744,8 +1752,9 @@ body>h1,body>p,body>ul,#content.container_12,#content.container_16{padding-left:
 h1{font-size:22px}
 .headInfo .details strong{display:block}
 .headInfo .details p,.headInfo .description p{font-size:13px}
-.feed h5{font-size:15px}
-.bodyText{font-size:17px;line-height:1.8}
+.feed h5{font-size:16px}
+.feed .item,.reshare.feed .item{padding:14px 0 16px}
+.bodyText{font-size:18px;line-height:1.85}
 div.pager{padding:8px 10px}
 .button span{padding-left:5px;padding-right:5px}
 .button.small span,.button.pager.small span{font-size:10px;line-height:16px}
