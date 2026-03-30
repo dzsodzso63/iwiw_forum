@@ -112,7 +112,7 @@ function escapeXml(value) {
 }
 
 function formatLastMod(date) {
-  return date.toISOString();
+  return date.toISOString().split("T")[0];
 }
 
 async function buildSitemapEntries(files) {
