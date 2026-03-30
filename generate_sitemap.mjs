@@ -136,28 +136,25 @@ async function main() {
   const htmlFiles = await walk(rootDir);
   const entries = await buildSitemapEntries(htmlFiles);
 
-  const xml = `
-    <?xml version="1.0" encoding="UTF-8"?>
-    <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     ${entries
       .map(
         ({ loc, lastmod }) => `
-      <url>
-        <loc>${escapeXml(loc)}</loc>
-        <lastmod>${lastmod}</lastmod>
-        <priority>${
-          loc.endsWith("_1.html") ? 0.8 : loc.endsWith(".html") ? 0.4 : 1.0
-        }</priority>
-      </url>
-    `
+  <url>
+    <loc>${escapeXml(loc)}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <priority>${
+      loc.endsWith("_1.html") ? 0.8 : loc.endsWith(".html") ? 0.4 : 1.0
+    }</priority>
+  </url>`
       )
       .join("")}
-    </urlset>
-  `;
+</urlset>`;
 
   await fs.writeFile(path.resolve(rootDir, outputArg), xml, "utf8");
   console.log(`Wrote ${entries.length} URLs to ${outputArg}`);
